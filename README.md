@@ -16,6 +16,6 @@
   
 * * *
 ### Udacity Class:  
-[Udacity CS373 Programming a Robotic Car 2012](http://www.udacity.com/overview/Course/cs373/CourseRev/feb2012 "Udacity Class")
+[Udacity CS373 Programming a Robotic Car 2012](https://in.udacity.com/course/artificial-intelligence-for-robotics--cs373 "Udacity Class")
 
 - I did this course over winter break without internet, so I added everything to the repo at once
